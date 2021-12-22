@@ -1,4 +1,4 @@
-### // bug bounty hunter // privacy advocate // python dev // antifascist // <br>// CCC regular // password cracking // web scraping // data hoarding //
+### // pentester // privacy advocate // python dev // antifascist // Tor relay operator // <br>// CCC regular // password cracking // web scraping // data hoarding //
 <br>
 
 [![Generic badge](https://img.shields.io/badge/CVEs-2-<COLOR>.svg)](https://shields.io/)
