@@ -27,26 +27,3 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0kovo&show_icons=true&line_height=23&count_private=true&theme=github_dark&hide_rank=true&hide_title=true" alt="n0kovo's GitHub Stats" />
 </p>
-<br>
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=awesome-password-cracking&theme=github_dark" />
-    </td>
-    <td valign="top" width="34%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=fb_friend_list_scraper&theme=github_dark" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=DomainDouche&theme=github_dark" />
-  <tr>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=danish-wordlists&theme=github_dark" />
-    </td>
-    <td valign="top" width="34%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=danish_phone_wordlist_generator&theme=github_dark" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=n0kovo&repo=ssid-keyspace-table&theme=github_dark" />
-    </td>
-  </tr>
-</table>
