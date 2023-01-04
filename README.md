@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://infosec.exchange/@n0kovo">
-    <img src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=%40n0kovo&logo=mastodon&logoColor=00AEFF&labelColor=black&color=7fff00" alt="Mastodon">
+    <img src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=%40n0kovo&logo=mastodon&logoColor=00AEFF&labelColor=black&color=7fff00" title="Mastodon">
   </a>
   <a href="http://keybase.io/n0kovo">
-    <img src="https://img.shields.io/badge/n0kovo-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black" alt="Keybase">
+    <img src="https://img.shields.io/badge/n0kovo-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black" title="Keybase">
   </a>
   <a href="https://matrix.to/#/@n0kovo:matrix.org">
-    <img src="https://img.shields.io/badge/@n0kovo:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" alt="Matrix">
+    <img src="https://img.shields.io/badge/@n0kovo:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" title="Matrix">
   </a>
   <a href="https://app.hackthebox.com/users/13267">
-    <img src="https://img.shields.io/badge/n0kovo-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black" alt="Hack The Box">
+    <img src="https://img.shields.io/badge/n0kovo-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black" title="Hack The Box">
   </a>
   <a href="mailto:n0kovo@riseup.net">
-    <img src="https://img.shields.io/badge/n0kovo@riseup.net-0078D4?style=for-the-badge&logo=riseup&logoColor=00AEFF&labelColor=black&color=black" alt="Email">
+    <img src="https://img.shields.io/badge/n0kovo@riseup.net-0078D4?style=for-the-badge&logo=riseup&logoColor=00AEFF&labelColor=black&color=black" title="Email">
   </a>
 </p>
 <p align="center">
