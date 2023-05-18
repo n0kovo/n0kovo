@@ -3,7 +3,7 @@
   
 
   <a href="https://infosec.exchange/@n0kovo">
-    <img src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=MASTODON&logo=mastodon&logoColor=00AEFF&labelColor=black&color=7fff00" title="Mastodon">
+    <img src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=MASTODON&logo=mastodon&labelColor=black&color=7fff00" title="Mastodon">
   </a>
   <a href="http://keybase.io/n0kovo">
     <img src="https://img.shields.io/badge/KEYBASE-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black" title="Keybase">
@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/MATRIX-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" title="Matrix">
   </a>
   <a href="https://app.hackthebox.com/users/13267">
-    <img src="https://img.shields.io/badge/HACKTHEBOX-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black" title="Hack The Box">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=9FEF00&labelColor=black&color=black" title="Hack The Box">
   </a>
   <a href="mailto:n0kovo@riseup.net">
-    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=riseup&logoColor=00AEFF&labelColor=black&color=black" title="Email">
+    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=riseup&logoColor=cc0000&labelColor=black&color=black" title="Email">
   </a>
 
   
