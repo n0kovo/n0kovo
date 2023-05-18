@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/KEYBASE-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black" title="Keybase">
   </a>
   <a href="https://matrix.to/#/@n0kovo:matrix.org">
-    <img src="https://img.shields.io/badge/@n0kovo:matrix.org-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" title="Matrix">
+    <img src="https://img.shields.io/badge/MATRIX-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" title="Matrix">
   </a>
   <a href="https://app.hackthebox.com/users/13267">
     <img src="https://img.shields.io/badge/HACKTHEBOX-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=00AEFF&labelColor=black&color=black" title="Hack The Box">
   </a>
   <a href="mailto:n0kovo@riseup.net">
-    <img src="https://img.shields.io/badge/n0kovo@riseup.net-0078D4?style=for-the-badge&logo=riseup&logoColor=00AEFF&labelColor=black&color=black" title="Email">
+    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=riseup&logoColor=00AEFF&labelColor=black&color=black" title="Email">
   </a>
 
   
