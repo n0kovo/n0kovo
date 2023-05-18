@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=1000&center=true&width=435&lines=%2F%2F+pentester+%2F%2F+CTF+player+%2F%2F+privacy+advocate+%2F%2F;%2F%2F+OSINT+%2F%2F+password+cracking+%2F%2F+data+hoarding+%2F%2F;%2F%2F+CCC+regular+%2F%2F+web+scraping+%2F%2F+python+dev+%2F%2F;%2F%2F+antifascist+%2F%2F++Tor+relay+operator+%2F%2F+1312+%2F%2F;%2F%2F+50+shades+of+grey+hat+%3A)+%2F%2F+"/>
   <br>
   <a href="https://app.hackthebox.com/users/13267">
-    <img align="center" src="https://www.hackthebox.com/badge/image/13267" alt="n0kovo on HackTheBox" />
+    <img align="center" src="https://www.hackthebox.com/badge/image/13267" alt="n0kovo on HackTheBox" height="68" />
   </a>
   <br>
   <br>
