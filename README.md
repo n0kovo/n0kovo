@@ -133,7 +133,7 @@
     <a href="https://github.com/n0kovo/CVE-2021-39174-PoC">
       <b>CVE-2021-39174-PoC</b>
     </a>
-    – Cachet configuration leak dumper PoC exploit.
+    – Cachet configuration leak dumping PoC exploit. Used by the one and only IppSec <a href="https://youtu.be/XAZI361XgRU?t=1164">here</a>.
   </li>
   <br>
 
