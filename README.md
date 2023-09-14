@@ -99,7 +99,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/github/stars/n0kovo/fb_friend_list_scraper?style=flat-square">
     <br>
-    – OSINT tool for scraping names and usernames from large friend lists on Facebook, without being rate limited.
+    – OSINT tool for scraping names and usernames from large friend lists on Facebook, without being rate limited.<br>
+    Featured on <a href="https://www.kitploit.com/2022/05/fbfriendlistscraper-osint-tool-to.html">kitploit.com</a>
   </li>
   <br>
 
