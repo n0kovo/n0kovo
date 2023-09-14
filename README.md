@@ -69,7 +69,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
     <img src="https://img.shields.io/github/stars/n0kovo/n0kovo_subdomains?style=flat-square">
     <br>
     – An extremely effective
-    subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.<br>
+    subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space. 
     Used as default subdomain wordlist in <a href="https://github.com/six2dez/reconftw"> reconFTW </a>
     and included in <a href="https://github.com/danielmiessler/SecLists">SecLists</a>.
   </li>
