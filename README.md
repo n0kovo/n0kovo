@@ -39,12 +39,12 @@
 
 ###
 
-<img align="right" height="68"
+<img align="right" width="300"
   src="https://camo.githubusercontent.com/ce1025a85536bceb793d0bf38a1e97c560ab4a775527380c64737b4908f8638c/68747470733a2f2f7777772e6861636b746865626f782e636f6d2f62616467652f696d6167652f3133323637" />
 
 <br clear="right">
 
-<img align="right" height="150"
+<img align="right" width="300"
   src="https://github-readme-stats.vercel.app/api?username=n0kovo&show_icons=true&line_height=23&count_private=true&theme=github_dark&hide_rank=true&hide_title=true" />
 
 
