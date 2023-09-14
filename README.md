@@ -55,13 +55,13 @@ I thoroughly enjoy fucking with technology 🤷</small>
 </p>
 
 <p align="left">
-<h4>🛠 Here's some stuff I've made:</h4>
+<h3>🛠 Here's some stuff I've made:</h3>
 <ul>
 
   <li>
     <h4>
     <a href="https://github.com/n0kovo/n0kovo_subdomains">
-      n0kovo_subdomains.txt
+      <b>n0kovo_subdomains.txt</b>
     </a>
       </h4>
     <img
@@ -78,7 +78,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/awesome-password-cracking">
-      awesome-password-cracking
+      <b>awesome-password-cracking</b>
     </a>
   </h4>
     <img src="https://img.shields.io/badge/awesome-3670A0?style=flat-square&logo=awesomelists">
@@ -93,7 +93,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/fb_friend_list_scraper">
-      fb_friend_list_scraper
+      <b>fb_friend_list_scraper</b>
     </a>
     </h4>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -107,7 +107,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/hashcat-rules-collection">
-      hashcat-rules-collection
+      <b>hashcat-rules-collection</b>
     </a>
       </h4>
     <img
@@ -121,7 +121,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/danish-wordlists">
-      danish-wordlists
+      <b>danish-wordlists</b>
     </a>
     </h4>
     <img
@@ -135,7 +135,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/danish_phone_wordlist_generator">
-      danish_phone_wordlist_generator
+      <b>danish_phone_wordlist_generator</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -149,7 +149,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/openrandonaut/pyrandonaut">
-      pyrandonaut
+      <b>pyrandonaut</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -164,7 +164,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/ssid-keyspace-table">
-      ssid-keyspace-table
+      <b>ssid-keyspace-table</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/markdown-3670A0?style=flat-square&logo=markdown&logoColor=000000">
@@ -178,7 +178,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/CVE-2021-39174-PoC">
-      CVE-2021-39174-PoC
+      <b>CVE-2021-39174-PoC</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -192,7 +192,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/random-agent">
-      random-agent
+      <b>random-agent</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/go-3670A0?style=flat-square&logo=go&logoColor=00ADD8">
@@ -206,7 +206,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/gohashmob">
-      gohashmob
+      <b>gohashmob</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/go-3670A0?style=flat-square&logo=go&logoColor=00ADD8">
@@ -219,7 +219,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/OPSECpatches">
-      OPSECpatches
+      <b>OPSECpatches</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/markdown-3670A0?style=flat-square&logo=markdown&logoColor=000000">
@@ -232,7 +232,7 @@ I thoroughly enjoy fucking with technology 🤷</small>
   <li>
     <h4>
     <a href="https://github.com/n0kovo/Signal-Desktop-Encrypter">
-      Signal-Desktop-Encrypter
+      <b>Signal-Desktop-Encrypter</b>
     </h4>
     </a>
     <img
