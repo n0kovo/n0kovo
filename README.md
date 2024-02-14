@@ -3,38 +3,25 @@
 </div>
 
 <div align="center">
-  <a href="https://infosec.exchange/@n0kovo">
-    <img
-      src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=MASTODON&logo=mastodon&labelColor=black&color=52a300"
-      title="Mastodon">
-  </a>
-  <a href="https://app.hackthebox.com/users/13267">
-    <img
-      src="https://img.shields.io/badge/HACKTHEBOX-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=9FEF00&labelColor=black&color=black"
-      title="Hack The Box">
-  </a>
-  <a href="https://matrix.to/#/@n0kovo:matrix.org">
-    <img
-      src="https://img.shields.io/badge/MATRIX-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black"
-      title="Matrix">
-  </a>
-  <a href="http://keybase.io/n0kovo">
-    <img
-      src="https://img.shields.io/badge/KEYBASE-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black"
-      title="Keybase">
-  </a>
-  <a href="mailto:n0kovo@riseup.net">
-    <img
-      src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=riseup&logoColor=cc0000&labelColor=black&color=black"
-      title="Email">
-  </a>
+
+  [<img alt="Mastodon"
+    src="https://img.shields.io/mastodon/follow/109279768980598864?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&label=MASTODON&logo=mastodon&labelColor=black&color=52a300" />](https://infosec.exchange/@n0kovo)
+  [<img alt="Hack The Box"
+    src="https://img.shields.io/badge/HACKTHEBOX-0078D4?style=for-the-badge&logo=Hackthebox&logoColor=9FEF00&labelColor=black&color=black" />](https://app.hackthebox.com/users/13267)
+  [<img alt="Matrix"
+    src="https://img.shields.io/badge/MATRIX-0078D4?style=for-the-badge&logo=matrix&logoColor=00AEFF&labelColor=black&color=black" />](https://matrix.to/#/@n0kovo:matrix.org)
+  [<img alt="Keybase"
+    src="https://img.shields.io/badge/KEYBASE-0078D4?style=for-the-badge&logo=keybase&logoColor=00AEFF&labelColor=black&color=black" />](http://keybase.io/n0kovo)
+  [<img alt="Email"
+    src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=riseup&logoColor=cc0000&labelColor=black&color=black" />](mailto:n0kovo@riseup.net)
+
 </div>
+</p>
 
 ###
 
 <div align="center">
-  <img height="50"
-    src="https://github.com/n0kovo/n0kovo/assets/16690056/edcf90e4-3c3f-4e57-b11b-5afd10ec07e9" />
+  <img height="50" src="https://github.com/n0kovo/n0kovo/assets/16690056/edcf90e4-3c3f-4e57-b11b-5afd10ec07e9" />
 </div>
 
 ###
@@ -51,7 +38,7 @@
 <p align="left">
 <h3>Hi! 👋</h3>
 <small>I'm some random 30-something human from the internet.<br>
-I thoroughly enjoy fucking with technology 🤷</small>
+  I thoroughly enjoy fucking with technology 🤷</small>
 </p>
 
 <p align="left">
@@ -60,16 +47,16 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/n0kovo_subdomains">
-      <b>n0kovo_subdomains.txt</b>
-    </a>
-      </h4>
+      <a href="https://github.com/n0kovo/n0kovo_subdomains">
+        <b>n0kovo_subdomains.txt</b>
+      </a>
+    </h4>
     <img
       src="https://img.shields.io/badge/text-3670A0.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMi4xIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNMzY1LjMgOTMuMzhsLTc0LjYzLTc0LjY0QzI3OC42IDYuNzQyIDI2Mi4zIDAgMjQ1LjQgMEw2NC0uMDAwMWMtMzUuMzUgMC02NCAyOC42NS02NCA2NGwuMDA2NSAzODRjMCAzNS4zNCAyOC42NSA2NCA2NCA2NEgzMjBjMzUuMiAwIDY0LTI4LjggNjQtNjRWMTM4LjZDMzg0IDEyMS43IDM3Ny4zIDEwNS40IDM2NS4zIDkzLjM4ek0zMzYgNDQ4YzAgOC44MzYtNy4xNjQgMTYtMTYgMTZINjQuMDJjLTguODM4IDAtMTYtNy4xNjQtMTYtMTZMNDggNjQuMTNjMC04LjgzNiA3LjE2NC0xNiAxNi0xNmgxNjBMMjI0IDEyOGMwIDE3LjY3IDE0LjMzIDMyIDMyIDMyaDc5LjFWNDQ4ek05NiAyODBDOTYgMjkzLjMgMTA2LjggMzA0IDEyMCAzMDRoMTQ0QzI3Ny4zIDMwNCAyODggMjkzLjMgMjg4IDI4MFMyNzcuMyAyNTYgMjY0IDI1NmgtMTQ0QzEwNi44IDI1NiA5NiAyNjYuOCA5NiAyODB6TTI2NCAzNTJoLTE0NEMxMDYuOCAzNTIgOTYgMzYyLjggOTYgMzc2czEwLjc1IDI0IDI0IDI0aDE0NGMxMy4yNSAwIDI0LTEwLjc1IDI0LTI0UzI3Ny4zIDM1MiAyNjQgMzUyeiIvPjwvc3ZnPg==">
     <img src="https://img.shields.io/github/stars/n0kovo/n0kovo_subdomains?style=flat-square">
     <br>
     – An extremely effective
-    subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space. 
+    subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
     Used as default subdomain wordlist in <a href="https://github.com/six2dez/reconftw"> reconFTW </a>
     and included in <a href="https://github.com/danielmiessler/SecLists">SecLists</a>.
   </li>
@@ -77,10 +64,10 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/awesome-password-cracking">
-      <b>awesome-password-cracking</b>
-    </a>
-  </h4>
+      <a href="https://github.com/n0kovo/awesome-password-cracking">
+        <b>awesome-password-cracking</b>
+      </a>
+    </h4>
     <img src="https://img.shields.io/badge/awesome-3670A0?style=flat-square&logo=awesomelists">
     <img src="https://img.shields.io/github/stars/n0kovo/awesome-password-cracking?style=flat-square">
     <br>
@@ -92,9 +79,9 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/fb_friend_list_scraper">
-      <b>fb_friend_list_scraper</b>
-    </a>
+      <a href="https://github.com/n0kovo/fb_friend_list_scraper">
+        <b>fb_friend_list_scraper</b>
+      </a>
     </h4>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/github/stars/n0kovo/fb_friend_list_scraper?style=flat-square">
@@ -107,10 +94,10 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/hashcat-rules-collection">
-      <b>hashcat-rules-collection</b>
-    </a>
-      </h4>
+      <a href="https://github.com/n0kovo/hashcat-rules-collection">
+        <b>hashcat-rules-collection</b>
+      </a>
+    </h4>
     <img
       src="https://img.shields.io/badge/hashcat-3670A0.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4Mi45IDEwNyIgeG1sbnM6dj0iaHR0cHM6Ly92ZWN0YS5pby9uYW5vIj48cGF0aCBkPSJNMCAwaDgyLjl2MTA3SDB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTggMTA1LjFMMjEuNiAxLjVoMzkuN2wxMy42IDEwMy42SDh6Ii8+PHBhdGggZD0iTTE4LjMgMjYuN2M0LjggMy44IDguNiA3IDkuMSAxMi45LjQgNS4xIDMuNyA4LjUgOC4yIDExIDEuNi42IDIgMiAyIDMuMS4zIDEwLjktMS45IDIxLjMtNi41IDMxLjMtLjggMS44LTIgMy40LTMuMiA0LjktMy4xIDMuNy00LjIgNy4zLTQuMiAxNS4yaDM1LjVjMC03LjktMS4xLTExLjUtNC4yLTE1LjItMS4yLTEuNS0yLjQtMy4xLTMuMi00LjktNC42LTEwLTYuOC0yMC40LTYuNS0zMS4zIDAtMS4xLjQtMi41IDItMy4xIDQuNS0yLjUgNy44LTUuOSA4LjItMTEgLjUtNS45IDQuMy05LjEgOS4xLTEyLjlsLjg1LTEuMi0uOS4yYy01LjUgMi0xMSAyLTE2LjUtLjctNC40LTIuMi04LjgtMi4yLTEzLjIgMC01LjUgMi43LTExIDIuNy0xNi41LjdsLS45LS4yLjg1IDEuMnoiLz48cGF0aCBkPSJNMzkuMiA0NS44Yy00LjQgMS4yLTYuMS0xLjItNy43LTQuMWw3LjcgNC4xem00LjUgMGM0LjQgMS4yIDYuMS0xLjIgNy43LTQuMWwtNy43IDQuMXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=">
     <img src="https://img.shields.io/github/stars/n0kovo/hashcat-rules-collection?style=flat-square">
@@ -121,9 +108,9 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/danish-wordlists">
-      <b>danish-wordlists</b>
-    </a>
+      <a href="https://github.com/n0kovo/danish-wordlists">
+        <b>danish-wordlists</b>
+      </a>
     </h4>
     <img
       src="https://img.shields.io/badge/text-3670A0.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMi4xIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNMzY1LjMgOTMuMzhsLTc0LjYzLTc0LjY0QzI3OC42IDYuNzQyIDI2Mi4zIDAgMjQ1LjQgMEw2NC0uMDAwMWMtMzUuMzUgMC02NCAyOC42NS02NCA2NGwuMDA2NSAzODRjMCAzNS4zNCAyOC42NSA2NCA2NCA2NEgzMjBjMzUuMiAwIDY0LTI4LjggNjQtNjRWMTM4LjZDMzg0IDEyMS43IDM3Ny4zIDEwNS40IDM2NS4zIDkzLjM4ek0zMzYgNDQ4YzAgOC44MzYtNy4xNjQgMTYtMTYgMTZINjQuMDJjLTguODM4IDAtMTYtNy4xNjQtMTYtMTZMNDggNjQuMTNjMC04LjgzNiA3LjE2NC0xNiAxNi0xNmgxNjBMMjI0IDEyOGMwIDE3LjY3IDE0LjMzIDMyIDMyIDMyaDc5LjFWNDQ4ek05NiAyODBDOTYgMjkzLjMgMTA2LjggMzA0IDEyMCAzMDRoMTQ0QzI3Ny4zIDMwNCAyODggMjkzLjMgMjg4IDI4MFMyNzcuMyAyNTYgMjY0IDI1NmgtMTQ0QzEwNi44IDI1NiA5NiAyNjYuOCA5NiAyODB6TTI2NCAzNTJoLTE0NEMxMDYuOCAzNTIgOTYgMzYyLjggOTYgMzc2czEwLjc1IDI0IDI0IDI0aDE0NGMxMy4yNSAwIDI0LTEwLjc1IDI0LTI0UzI3Ny4zIDM1MiAyNjQgMzUyeiIvPjwvc3ZnPg==">
@@ -135,8 +122,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/danish_phone_wordlist_generator">
-      <b>danish_phone_wordlist_generator</b>
+      <a href="https://github.com/n0kovo/danish_phone_wordlist_generator">
+        <b>danish_phone_wordlist_generator</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -149,8 +136,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/openrandonaut/pyrandonaut">
-      <b>pyrandonaut</b>
+      <a href="https://github.com/openrandonaut/pyrandonaut">
+        <b>pyrandonaut</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -164,8 +151,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/ssid-keyspace-table">
-      <b>ssid-keyspace-table</b>
+      <a href="https://github.com/n0kovo/ssid-keyspace-table">
+        <b>ssid-keyspace-table</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/markdown-3670A0?style=flat-square&logo=markdown&logoColor=000000">
@@ -178,8 +165,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/CVE-2021-39174-PoC">
-      <b>CVE-2021-39174-PoC</b>
+      <a href="https://github.com/n0kovo/CVE-2021-39174-PoC">
+        <b>CVE-2021-39174-PoC</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
@@ -192,8 +179,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/random-agent">
-      <b>random-agent</b>
+      <a href="https://github.com/n0kovo/random-agent">
+        <b>random-agent</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/go-3670A0?style=flat-square&logo=go&logoColor=00ADD8">
@@ -206,8 +193,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/gohashmob">
-      <b>gohashmob</b>
+      <a href="https://github.com/n0kovo/gohashmob">
+        <b>gohashmob</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/go-3670A0?style=flat-square&logo=go&logoColor=00ADD8">
@@ -219,8 +206,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/OPSECpatches">
-      <b>OPSECpatches</b>
+      <a href="https://github.com/n0kovo/OPSECpatches">
+        <b>OPSECpatches</b>
     </h4>
     </a>
     <img src="https://img.shields.io/badge/markdown-3670A0?style=flat-square&logo=markdown&logoColor=000000">
@@ -232,8 +219,8 @@ I thoroughly enjoy fucking with technology 🤷</small>
 
   <li>
     <h4>
-    <a href="https://github.com/n0kovo/Signal-Desktop-Encrypter">
-      <b>Signal-Desktop-Encrypter</b>
+      <a href="https://github.com/n0kovo/Signal-Desktop-Encrypter">
+        <b>Signal-Desktop-Encrypter</b>
     </h4>
     </a>
     <img
