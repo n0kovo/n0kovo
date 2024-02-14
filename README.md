@@ -34,10 +34,13 @@
 
 <div align="center">
   <img height="50"
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/16690056/304749075-17715fd5-cb2b-4e38-9f7d-26c7aa8f47aa.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240214T133221Z&X-Amz-Expires=300&X-Amz-Signature=1b588362aea18d96553b9aadb778b4e59ec697638e17884d30add942e43149c4&X-Amz-SignedHeaders=host&actor_id=16690056&key_id=0&repo_id=432444603" />
+    src="https://github.com/n0kovo/n0kovo/assets/16690056/edcf90e4-3c3f-4e57-b11b-5afd10ec07e9" />
 </div>
 
 ###
+
+<img align="right" height="68"
+  src="https://htb-badge-935f8c1fc080.herokuapp.com/badge/13267.svg?showflag=true&animate=true" />
 
 <br clear="right">
 
